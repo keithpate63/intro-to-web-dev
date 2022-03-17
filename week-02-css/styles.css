@@ -1,5 +1,6 @@
 /* Element selector that gives every p element a monospace font. */
 p {
+  background-color: blue;
   font-family: monospace;
 }
 
@@ -7,9 +8,11 @@ p {
 .big {
   font-size: large;
   font-weight: bold;
+  font-style: italic;
 }
 
 /* ID selector that gives the element with this ID a red style. */
 #boldly {
+  font-weight: bolder;
   color: red;
 }
