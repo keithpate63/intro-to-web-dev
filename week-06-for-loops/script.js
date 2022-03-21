@@ -79,5 +79,4 @@ for(let i = 1; i < animals.length; i++) {
 
 document.write('Longest word: ' + longestWord);
 
-  // TODO: Call your functions here!
-}
+  // TODO: Call your functions here!let total = 0;
